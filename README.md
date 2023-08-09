@@ -1,2 +1,2 @@
 # SimpleServerStatus
- Simple server status with php.  (really simple xd)
+ Simple server status with php.  (really simple)
