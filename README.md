@@ -24,7 +24,7 @@ Edit the `index.php` file and modify the `$servers` array to include your server
 
 ```php
 $servers = array(
-    array('protocol' => 'Example', 'host' => '79.110.234.222', 'port' => 25565),
-    array('protocol' => 'Example2', 'host' => '89.35.52.199', 'port' => 25565),
+    array('protocol' => 'Example', 'host' => '127.0.0.1', 'port' => 80),
+    array('protocol' => 'Example2', 'host' => '127.0.0.1', 'port' => 916),
     // Add more server entries as needed
 );
