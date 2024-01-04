@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link rel="shortcut icon" type="image/x-icon" href="https://www.nywhash.com/apps/main/public/assets/img/extras/header-logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.nywhash.com/cdn/logo/128.png">
     <title>Server Status</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -19,7 +19,7 @@
                 array('protocol' => 'Server B', 'host' => '127.0.0.1', 'port' => 81),
                 array('protocol' => 'Server C', 'host' => '127.0.0.1', 'port' => 82),
                 array('protocol' => 'Server D', 'host' => '127.0.0.1', 'port' => 83),
-                array('protocol' => 'Server E', 'host' => '127.0.0.1', 'port' => 84)
+                array('protocol' => 'Server E', 'host' => '127.0.0.1', 'port' => 84)    
             );
 
             foreach ($servers as $server) {
